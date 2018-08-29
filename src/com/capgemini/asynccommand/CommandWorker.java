@@ -1,5 +1,7 @@
 package com.capgemini.asynccommand;
 
-public class CommandWorker {
+import java.util.List;
 
+public class CommandWorker {
+	List functionList = new List<Command<Object,Object>>();
 }
