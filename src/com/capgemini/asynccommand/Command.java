@@ -1,5 +1,7 @@
 package com.capgemini.asynccommand;
 
-public class Command {
-
+public interface Command {
+	public static void execute(){
+		
+	}
 }
