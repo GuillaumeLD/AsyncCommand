@@ -1,5 +1,5 @@
 package com.capgemini.asynccommand;
 
-public class ConcreteCommand {
+public class WorkerAsync {
 
 }
